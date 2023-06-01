@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089591970768",
+    "project_id": "authenticationphone-85201",
+    "storage_bucket": "authenticationphone-85201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089591970768:android:1130f8b3d4c93b39a347d5",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDykT3e3EpgoOR2VSSgWlO6dwwgXln7NAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
